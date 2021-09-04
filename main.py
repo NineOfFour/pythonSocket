@@ -1,6 +1,6 @@
 # Pycharm signed into nineOfFour github account
 # File --> new project
-# VCS in main menu --> share project with Github
+# VCS in main menu --> share files with Github
 #
 # Make changes
 # Git in main menu --> Commit
