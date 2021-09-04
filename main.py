@@ -1,3 +1,11 @@
+# Pycharm signed into nineOfFour github account
+# File --> new project
+# VCS in main menu --> share project with Github
+#
+# Make changes
+# Git in main menu --> Commit
+#               then --> Push
+
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
